@@ -1,0 +1,25 @@
+db.sqlite3
+.DS_Store
+.idea/
+
+*/migrations
+*/__pycache__/*
+
+# Python
+/venv/
+/env/
+./main/__pycache__/
+/main/__pycache__/
+**/__pycache__/
+#!**/__pycache__/
+__pycache__/
+/lib/
+/include/
+
+# Django
+**/migrations/
+#!**/migrations/
+.env
+
+main/secrets.py
+/main/secrets.py
