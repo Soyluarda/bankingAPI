@@ -4,7 +4,7 @@
 - create a directory and clone projects in it.
     - create a virtual environment and activate it.
         ```
-        - virtualenv -p python3 venv
+        - python3 -m venv venv
         - source venv/bin/activate
         ```
     - and after all the changes in models.py files you should run the following commands:
